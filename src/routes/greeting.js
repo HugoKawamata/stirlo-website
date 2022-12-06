@@ -19,6 +19,23 @@ export default function GreetingPage() {
           easy. All you need to do to update your website LIVE is push a new commit to main
           branch.
         </p>
+        <p>
+          Links you might need:
+          <ul>
+            <li><a href="https://app.netlify.com/sites/stirlo">
+              The Netlify server
+            </a></li>
+            <li><a href="https://dcc.godaddy.com/control/stirlo.com/dns">
+              The GoDaddy domain name
+            </a></li>
+            <li><a href="https://github.com/HugoKawamata/stirlo-website/settings/access">
+              The GitHub repo
+            </a></li>
+            <li><a href="https://www.youtube.com/watch?v=MhkGQAoc7bc">
+              YouTube react tutorials (this is the same tutorial I used when I was learning react)
+            </a></li>
+          </ul>
+        </p>
       </article>
     </div>
   )
