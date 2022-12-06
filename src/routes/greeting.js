@@ -36,6 +36,10 @@ export default function GreetingPage() {
             </a></li>
           </ul>
         </p>
+        <p>
+          The GoDaddy domain is paid for for 1 year, but you'll need to set up a payment method yourself
+          to keep it going! We can chat about setting this up in person.
+        </p>
       </article>
     </div>
   )
