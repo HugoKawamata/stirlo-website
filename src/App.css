@@ -6,6 +6,10 @@ article {
   max-width: 60vw;
 }
 
+ul {
+  text-align: left;
+}
+
 .App {
   background-color:rgb(0,0,0);
   background-image:url(http://www.zingerbugimages.com/backgrounds/multi_colored_stars2.gif);
