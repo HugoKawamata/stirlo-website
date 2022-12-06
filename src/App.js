@@ -1,22 +1,16 @@
-import logo from './logo.svg';
+import stirloFace from './images/stirlo-face.png'
+import merryChristmas from './images/merry-christmas.gif'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={merryChristmas} alt="merry christmas" />
+        <img src={stirloFace} className="stirlo-face" alt="stirlo's big beautiful face" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Click on your head!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
